@@ -1,0 +1,8 @@
+cassandra-driver==3.25.0
+feedparser==6.0.8
+gensim==4.1.2
+nltk==3.6.5
+numpy==1.21.2
+pyspark==2.4.3
+scipy==1.7.1
+PyYAML==6.0
